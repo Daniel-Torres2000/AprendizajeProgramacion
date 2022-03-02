@@ -1,4 +1,4 @@
-# concept matrix of c++
+# concept matrix of programming in alternative lenguages
 I want to share information about programming in c++ language
 The concept matrix is:
 1. how to create a new c++´s file
