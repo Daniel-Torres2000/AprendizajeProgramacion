@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\bin\Debug\net6.0\Practica09.exe
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\bin\Debug\net6.0\Practica09.deps.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\bin\Debug\net6.0\Practica09.runtimeconfig.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\bin\Debug\net6.0\Practica09.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\bin\Debug\net6.0\ref\Practica09.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\bin\Debug\net6.0\Practica09.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\ref\Practica09.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\09 - Mostrar variables en pantalla\Practica09\obj\Debug\net6.0\Practica09.genruntimeconfig.cache

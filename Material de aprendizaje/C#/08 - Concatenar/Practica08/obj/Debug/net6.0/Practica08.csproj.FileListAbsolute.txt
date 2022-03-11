@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\bin\Debug\net6.0\Practica08.exe
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\bin\Debug\net6.0\Practica08.deps.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\bin\Debug\net6.0\Practica08.runtimeconfig.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\bin\Debug\net6.0\Practica08.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\bin\Debug\net6.0\ref\Practica08.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\bin\Debug\net6.0\Practica08.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\ref\Practica08.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\08 - Concatenar\Practica08\obj\Debug\net6.0\Practica08.genruntimeconfig.cache
