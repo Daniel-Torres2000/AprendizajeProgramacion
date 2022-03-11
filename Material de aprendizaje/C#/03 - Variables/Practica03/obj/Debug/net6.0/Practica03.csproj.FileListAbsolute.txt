@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\bin\Debug\net6.0\Practica03.exe
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\bin\Debug\net6.0\Practica03.deps.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\bin\Debug\net6.0\Practica03.runtimeconfig.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\bin\Debug\net6.0\Practica03.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\bin\Debug\net6.0\ref\Practica03.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\bin\Debug\net6.0\Practica03.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\ref\Practica03.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\03 - Variables\Practica03\obj\Debug\net6.0\Practica03.genruntimeconfig.cache

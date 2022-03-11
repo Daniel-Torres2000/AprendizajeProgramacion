@@ -1,0 +1,14 @@
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\bin\Debug\net6.0\Practica02.exe
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\bin\Debug\net6.0\Practica02.deps.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\bin\Debug\net6.0\Practica02.runtimeconfig.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\bin\Debug\net6.0\Practica02.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\bin\Debug\net6.0\ref\Practica02.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\bin\Debug\net6.0\Practica02.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\ref\Practica02.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\02 - Mostrar texto\Practica02\obj\Debug\net6.0\Practica02.genruntimeconfig.cache

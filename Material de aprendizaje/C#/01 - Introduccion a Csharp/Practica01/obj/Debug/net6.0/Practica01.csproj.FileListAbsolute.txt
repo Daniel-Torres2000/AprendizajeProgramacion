@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\bin\Debug\net6.0\Practica01.exe
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\bin\Debug\net6.0\Practica01.deps.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\bin\Debug\net6.0\Practica01.runtimeconfig.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\bin\Debug\net6.0\Practica01.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\bin\Debug\net6.0\ref\Practica01.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\bin\Debug\net6.0\Practica01.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\ref\Practica01.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\01 - Introduccion a Csharp\Practica01\obj\Debug\net6.0\Practica01.genruntimeconfig.cache
