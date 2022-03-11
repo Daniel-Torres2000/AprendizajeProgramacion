@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\bin\Debug\net6.0\Practica05.exe
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\bin\Debug\net6.0\Practica05.deps.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\bin\Debug\net6.0\Practica05.runtimeconfig.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\bin\Debug\net6.0\Practica05.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\bin\Debug\net6.0\ref\Practica05.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\bin\Debug\net6.0\Practica05.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\ref\Practica05.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\05 - Operadores matematicos\Practica05\obj\Debug\net6.0\Practica05.genruntimeconfig.cache

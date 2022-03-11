@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\bin\Debug\net6.0\Practica06.exe
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\bin\Debug\net6.0\Practica06.deps.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\bin\Debug\net6.0\Practica06.runtimeconfig.json
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\bin\Debug\net6.0\Practica06.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\bin\Debug\net6.0\ref\Practica06.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\bin\Debug\net6.0\Practica06.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\ref\Practica06.dll
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.pdb
+C:\Users\Alfa\Documents\Universidad Mariano Gálvez\Ingeniería Sistemas\Programación Estudios\CSharp - Programacion de Consola\06 - Operadores unarios\Practica06\obj\Debug\net6.0\Practica06.genruntimeconfig.cache
