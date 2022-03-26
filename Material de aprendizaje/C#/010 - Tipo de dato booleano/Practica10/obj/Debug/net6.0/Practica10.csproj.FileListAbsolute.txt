@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\bin\Debug\net6.0\Practica10.exe
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\bin\Debug\net6.0\Practica10.deps.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\bin\Debug\net6.0\Practica10.runtimeconfig.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\bin\Debug\net6.0\Practica10.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\bin\Debug\net6.0\ref\Practica10.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\bin\Debug\net6.0\Practica10.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\ref\Practica10.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\010 - Tipo de dato booleano\Practica10\obj\Debug\net6.0\Practica10.genruntimeconfig.cache

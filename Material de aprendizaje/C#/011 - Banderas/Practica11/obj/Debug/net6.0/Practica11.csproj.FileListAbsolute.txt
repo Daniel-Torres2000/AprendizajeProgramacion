@@ -1,0 +1,15 @@
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\bin\Debug\net6.0\Practica11.exe
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\bin\Debug\net6.0\Practica11.deps.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\bin\Debug\net6.0\Practica11.runtimeconfig.json
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\bin\Debug\net6.0\Practica11.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\bin\Debug\net6.0\ref\Practica11.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\bin\Debug\net6.0\Practica11.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.csproj.AssemblyReference.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.AssemblyInfoInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.AssemblyInfo.cs
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\ref\Practica11.dll
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.pdb
+C:\Users\Alfa\Documents\Programación Estudios\CSharp - Programacion de Consola\011 - Banderas\Practica11\obj\Debug\net6.0\Practica11.genruntimeconfig.cache
