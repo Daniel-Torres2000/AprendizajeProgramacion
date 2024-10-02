@@ -1,0 +1,80 @@
+INTRODUCCIÓN A LA PROGRAMACIÓN
+
+A continuación, se muestra el siguiente documento con el objetivo, de hacer llegar al alumno un material de apoyo para poder aprender a programar de manera correcta.
+
+Así también, este libro le permitirá a usted como lector poder obtener ejercicios para realizar prácticas así usted ejercitando su lógica para poder resolver problemas, dándoles soluciones así a problemas fáciles o sencillos, como también a problemas que requieren de un análisis y complementos más detallados.
+En éste documento se muestran ejercicios resueltos (Ejemplos), así también como ejercicios para que usted los solucione por medio de la programación, RECUERDA solo es cuestión de que te lo propongas, ya que cualquiera puede programar.
+
+PROGRAMACIÓN
+
+La programación es un proceso muy amplio el cuál lo podemos definir por medio de acciones e ideas que uno como programador, implementa y crea con el objetivo de darle una solución a los problemas. Además, uno como programador no puede quedarse únicamente con la satisfacción de arreglar o solucionar el problema, también debe implementar nuevas metas en sus proyectos, debe saber que en el área de informática uno debe actualizarse constantemente realizando pruebas y así es, no siempre se obtienen los resultados que uno espera, pero más sin embargo, cada una de esas pruebas nos permite recopilar información y obtener nuevos conocimientos, obteniendo así, nuevas herramientas para implementarlas y trabajarlas en un futuro muy próximo.
+La Informática es la disciplina o campo de estudio que abarca el conjunto de conocimientos, métodos y técnicas referentes al tratamiento automático de la información, junto con sus teorías y aplicaciones prácticas, con el fin de almacenar, procesar y transmitir datos e información en formato digital utilizando sistemas computacionales. Los datos son la materia prima para que, mediante su proceso, se obtenga como resultado información.
+La programación se rige por reglas y un conjunto más o menos reducido de órdenes, expresiones, instrucciones y comandos que tienden a asemejarse a una lengua natural acotada y que además tienen la particularidad de una reducida ambigüedad. Cuanto menos ambiguo es un lenguaje de programación, se dice, es más potente. Bajo esta premisa, y en el extremo, el lenguaje más potente existente es el binario.
+
+Para crear un programa, y que la computadora lo interprete y ejecute las instrucciones escritas en él, debe escribirse en un lenguaje de programación. En sus comienzos las computadoras interpretaban solo instrucciones en un lenguaje específico, del más bajo nivel, conocido como código máquina, siendo éste excesivamente complicado para programar. De hecho, solo consiste en cadenas de números 1 y 0 (sistema binario). Para facilitar el trabajo de programación, los primeros científicos, que trabajaban en el área, decidieron reemplazar las instrucciones, secuencias de unos y ceros, por palabras o abreviaturas provenientes del inglés; las codificaron y crearon así un lenguaje de mayor nivel, que se conoce como Assembly o lenguaje ensamblador. Por ejemplo, para sumar se podría usar la letra A de la palabra inglesa add (sumar). En realidad, escribir en lenguaje ensamblador es básicamente lo mismo que hacerlo en lenguaje máquina, pero las letras y palabras son bastante más fáciles de recordar y entender que secuencias de números binarios. A medida que la complejidad de las tareas que realizaban las computadoras aumentaba, se hizo necesario disponer de un método sencillo para programar. Entonces, se crearon los lenguajes de alto nivel.
+Mientras que una tarea tan trivial como multiplicar dos números puede necesitar un conjunto de instrucciones en lenguaje ensamblador, en un lenguaje de alto nivel bastará con solo una. Una vez que se termina de escribir un programa, sea en ensamblador o en algunos lenguajes de alto nivel, es necesario compilarlo, es decir, traducirlo completo a lenguaje máquina.
+Eventualmente será necesaria otra fase denominada comúnmente link o enlace, durante la cual se anexan al código, generado durante la compilación, los recursos necesarios de alguna biblioteca. En algunos lenguajes de programación, puede no ser requerido el proceso de compilación y enlace, ya que pueden trabajar en modo intérprete. Esta modalidad de trabajo es equivalente, pero se realiza instrucción por instrucción, a medida que es ejecutado el programa.
+En los lenguajes de programación de alto nivel se distinguen diversos elementos entre los que se incluyen el léxico propio del lenguaje y las reglas semánticas y sintácticas.
+
+Léxico de Programación o Palabras Reservadas:
+
+Las palabras reservadas son identificadores reservados predefinidos que tienen un significado
+especial y no se pueden utilizar como identificadores en sus programas, excepto si llevan delante el
+carácter @ como prefijo. Así, por ejemplo @for es un identificador válido, pero no for ya que es una
+palabra reservada.
+Un ejemplo claro de ello en programación en el lenguaje C#, cuándo se está programando y se trata de mostrar un mensaje en pantalla, se debe utilizar el identificado “Console.WriteLine();” más, sin embargo, sino se escribe de manera correcta ya sea por haber escrito una minúscula en el lugar donde debía ir una mayúscula, éste marcará error de manera inevitable.
+
+Programas y Algoritmos:
+
+Un algoritmo es una serie de pasos ordenados, con secuencia y precisos los cuáles permiten llevar a cabo una acción de manera precisa, correcta y funcional. Un programa normalmente implementa (traduce a un lenguaje de programación concreto) uno o más algoritmos. Un algoritmo puede expresarse de distintas maneras: en forma gráfica, como un diagrama de flujo, en forma de código como en pseudocódigo o un lenguaje de programación, en forma explicativa.
+Los programas suelen subdividirse en partes menores, llamadas módulos, de modo que la complejidad algorítmica de cada una de las partes sea menor que la del programa completo, lo cual ayuda al desarrollo del programa. 
+La programación puede seguir muchos enfoques, o paradigmas, es decir, diversas maneras de formular la resolución de un problema dado. Algunos de los principales paradigmas de la programación son:
+•	Programación declarativa
+•	Programación estructurada
+•	Programación modular
+•	Programación orientada a objetos
+El programa escrito en un lenguaje de programación de alto nivel (fácilmente comprensible por el programador) es llamado programa fuente y no se puede ejecutar directamente en una computadora. La opción más común es compilar el programa obteniendo un módulo objeto, aunque también puede ejecutarse en forma más directa a través de un intérprete informático.
+El código fuente del programa se debe someter a un proceso de traducción para convertirlo a lenguaje máquina o bien a un código intermedio, generando así un módulo denominado "objeto". A este proceso se le llama compilación.
+
+Diagramas de Flujo:
+
+Un diagrama de flujo o elaborado con un lenguaje grafico incoherente 0 no accesible transmite un mensaje deformado e impide comprender el procedimos ente que se pretende estudiar. De ahí la necesidad de contar con símbolos que tengan un significa cado preciso, y de convenir reglas claras para utilizarlos.
+
+Normas de Diagrama de Flujo:
+
+Un diagrama de flujo presenta generalmente un único punto de inicio y un único punto de cierre, aunque puede tener más, siempre que cumpla con la lógica requerida.
+Las siguientes son acciones previas a la realización del diagrama de flujo:
+
+•	Identificar las ideas principales al ser incluidas en el diagrama de flujo. Deben estar presentes el autor o responsable del proceso, los autores o responsables del proceso anterior y posterior y de otros procesos anidados, así como las terceras partes interesadas.
+•	Definir qué se espera obtener del diagrama de flujo.
+•	Identificar quién lo empleará y cómo.
+•	Establecer el nivel de detalle requerido.
+•	Determinar los límites del proceso a describir.
+Los pasos a seguir para construir el diagrama de flujo son:
+•	Establecer el alcance del proceso a describir. De esta manera quedará fijado el comienzo y el final del diagrama. Frecuentemente el comienzo es la salida del proceso previo y el final la entrada al proceso siguiente.
+•	Identificar y listar las principales actividades/subprocesos que están incluidos en el proceso a describir y su orden cronológico.
+•	Si el nivel de detalle definido incluye actividades menores, listarlas también.
+•	Identificar y listar los puntos de decisión.
+•	Construir el diagrama respetando la secuencia cronológica y asignando los correspondientes símbolos.
+
+FUNDAMENTOS DE PROGRAMACIÒN
+
+Variables
+
+En programación, las variables son espacios reservados en la memoria que, como su nombre indica, pueden cambiar de contenido a lo largo de la ejecución de un programa. Una variable corresponde a un área reservada en la memoria principal del ordenador.
+Para que nuestro código sea más entendible y claro, el identificador de la variable debe ser mnemotécnico, es decir que debe reflejar el uso dentro del programa de la misma.
+Además, se debe tomar en cuenta que dependiendo el tipo de dato que se le asigne, o que almacene, es la capacidad de datos, dígitos o caracteres que pueda almacenar, además del pesor que llegue a tener dentro de nuestra computadora (el espacio que ocupa en cuánto a almacenamiento en nuestra computadora).
+
+Constantes
+
+En programación, una constante es un valor que no puede ser alterado/modificado durante la ejecución de un programa, únicamente puede ser leído.
+Una constante corresponde a una longitud fija de un área reservada en la memoria principal del ordenador, donde el programa almacena valores fijos.
+Por ejemplo: El valor de PI = 3,1416.
+Por conveniencia, el nombre de las constantes suele escribirse en mayúsculas en la mayoría de lenguajes.
+
+Tipos de Datos y Variables
+
+Los tipos de dato, son aquellos que especìfican que tipo de informaciòn podremos almacenar dentro de una variable. Frecuentemente al introducirnos en la programaciòn pensaremos en que deberemos conocerlos todos, al introducirnos conoceremos los datos que se utilizan con màs frecuencia o comùnmente dentro de un programa sencillo.
+
+Enteros: Almacena nùmeros enteros, quiere decir, nùmeros que no cuenten con decimales.
+Reales: Almacena nùmeros que cuenten con decimales (En caso de que el nùmero no cuente con decimales, de igual forma podra almacenarlo).

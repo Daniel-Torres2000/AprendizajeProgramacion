@@ -1,0 +1,36 @@
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.exe.config
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.exe
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.pdb
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.csprojResolveAssemblyReference.cache
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.InterfazVisualBase.resources
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.Properties.Resources.resources
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.csproj.GenerateResource.Cache
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.exe
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.pdb
+C:\Users\docente03\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.CambiarColor.resources
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.exe.config
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.exe
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.pdb
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.exe
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.pdb
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.csprojResolveAssemblyReference.cache
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.CambiarColor.resources
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.InterfazVisualBase.resources
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.Properties.Resources.resources
+M:\GimnasiasProyectos\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.csproj.GenerateResource.Cache
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.exe.config
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.exe
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.pdb
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.exe
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\bin\Debug\Interfaz Base.pdb
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.CambiarColor.resources
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.InterfazVisualBase.resources
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.Properties.Resources.resources
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz Base.csproj.GenerateResource.Cache
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.PSeint.resources
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.PSeintPalabrasClave.resources
+C:\Users\Tecno Computer\Desktop\Interfaz Base\Interfaz Base\obj\Debug\Interfaz_Base.PSeinPasoAPaso.resources
+C:\Users\JoseDanielTorresGarc\Downloads\Aplicación Cursos\Aplicación Cursos\Interfaz Base\obj\Debug\Interfaz Base.csproj.AssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Aplicación Cursos\Aplicación Cursos\Interfaz Base\obj\Debug\Interfaz Base.exe
+C:\Users\JoseDanielTorresGarc\Downloads\Aplicación Cursos\Aplicación Cursos\Interfaz Base\obj\Debug\Interfaz Base.pdb
