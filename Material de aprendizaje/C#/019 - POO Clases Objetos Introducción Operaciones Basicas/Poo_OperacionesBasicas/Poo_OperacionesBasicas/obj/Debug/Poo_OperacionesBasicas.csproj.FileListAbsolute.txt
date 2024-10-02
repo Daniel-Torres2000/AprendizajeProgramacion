@@ -1,0 +1,14 @@
+C:\Users\Tecno Computer\Desktop\Poo_OperacionesBasicas\Poo_OperacionesBasicas\bin\Debug\Poo_OperacionesBasicas.exe.config
+C:\Users\Tecno Computer\Desktop\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.Aplicacion.resources
+C:\Users\Tecno Computer\Desktop\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.Properties.Resources.resources
+C:\Users\Tecno Computer\Desktop\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.csproj.GenerateResource.Cache
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\bin\Debug\Poo_OperacionesBasicas.exe.config
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.csprojResolveAssemblyReference.cache
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.Aplicacion.resources
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.Properties.Resources.resources
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.csproj.GenerateResource.Cache
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\bin\Debug\Poo_OperacionesBasicas.exe
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\bin\Debug\Poo_OperacionesBasicas.pdb
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.exe
+D:\Poo_OperacionesBasicas\Poo_OperacionesBasicas\obj\Debug\Poo_OperacionesBasicas.pdb
