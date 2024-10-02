@@ -1,0 +1,6 @@
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Monto de Empresa\Monto de Empresa\bin\Debug\Monto de Empresa.exe.config
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Monto de Empresa\Monto de Empresa\bin\Debug\Monto de Empresa.exe
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Monto de Empresa\Monto de Empresa\bin\Debug\Monto de Empresa.pdb
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Monto de Empresa\Monto de Empresa\obj\Debug\Monto de Empresa.csprojResolveAssemblyReference.cache
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Monto de Empresa\Monto de Empresa\obj\Debug\Monto de Empresa.exe
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Monto de Empresa\Monto de Empresa\obj\Debug\Monto de Empresa.pdb
