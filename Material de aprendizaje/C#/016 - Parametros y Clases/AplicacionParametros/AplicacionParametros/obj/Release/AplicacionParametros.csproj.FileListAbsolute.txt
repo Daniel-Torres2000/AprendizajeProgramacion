@@ -1,0 +1,6 @@
+C:\Users\Tecno Computer\Desktop\AplicacionParametros\AplicacionParametros\bin\Release\AplicacionParametros.exe.config
+C:\Users\Tecno Computer\Desktop\AplicacionParametros\AplicacionParametros\bin\Release\AplicacionParametros.exe
+C:\Users\Tecno Computer\Desktop\AplicacionParametros\AplicacionParametros\bin\Release\AplicacionParametros.pdb
+C:\Users\Tecno Computer\Desktop\AplicacionParametros\AplicacionParametros\obj\Release\AplicacionParametros.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\AplicacionParametros\AplicacionParametros\obj\Release\AplicacionParametros.exe
+C:\Users\Tecno Computer\Desktop\AplicacionParametros\AplicacionParametros\obj\Release\AplicacionParametros.pdb
