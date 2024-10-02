@@ -1,0 +1,48 @@
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe.config
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.exe
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.pdb
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.pdb
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Formulario_Contenedor.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_conversiones.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_principal.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Properties.Resources.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Formulario_Contenedor.csproj.GenerateResource.Cache
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_enlace.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_termometro_ambiental.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_circunferencia.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_esfera.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_red_inalambrica.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_empresa.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_cultivos.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_resta_condicional.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_balones.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_multas.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_estacionamiento.resources
+C:\Users\Tecno Computer\Desktop\Formulario_Contenedor\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_luz.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe.config
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.pdb
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Formulario_Contenedor.csprojAssemblyReference.cache
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_balones.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_circunferencia.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_conversiones.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_cultivos.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_empresa.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_enlace.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_esfera.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_estacionamiento.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_luz.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_multas.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_principal.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_red_inalambrica.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_resta_condicional.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_termometro_ambiental.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Properties.Resources.resources
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Formulario_Contenedor.csproj.GenerateResource.cache
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Formulario_Contenedor.csproj.CoreCompileInputs.cache
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.exe
+C:\Users\josed\Documents\Programación en CSharp\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.pdb
+C:\Users\JoseDanielTorresGarc\Downloads\018 - Creación de aplicación Contenedora\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Formulario_Contenedor.csproj.AssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\018 - Creación de aplicación Contenedora\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.exe
+C:\Users\JoseDanielTorresGarc\Downloads\018 - Creación de aplicación Contenedora\Aplicación Contenedora\Aplicación Contenedora\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.pdb

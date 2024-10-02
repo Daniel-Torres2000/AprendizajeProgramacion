@@ -1,0 +1,12 @@
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe.config
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.pdb
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Frm_principal.resources
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.Properties.Resources.resources
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.csproj.GenerateResource.Cache
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.exe
+C:\Users\Tecno Computer\Documents\PROGRAMACION, PUBLICIDAD, COMPUTACION\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.pdb
+C:\Users\Tecno Computer\Desktop\Interfaz_Esquema\Interfaz_Esquema\bin\Debug\Interfaz_Esquema.exe.config
+C:\Users\Tecno Computer\Desktop\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.exe
+C:\Users\Tecno Computer\Desktop\Interfaz_Esquema\Interfaz_Esquema\obj\Debug\Interfaz_Esquema.pdb
