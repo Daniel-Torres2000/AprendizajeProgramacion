@@ -1,0 +1,6 @@
+C:\Users\Tecno Computer\Desktop\AplicacionGetSet\AplicacionGetSet\bin\Debug\AplicacionGetSet.exe.config
+C:\Users\Tecno Computer\Desktop\AplicacionGetSet\AplicacionGetSet\bin\Debug\AplicacionGetSet.exe
+C:\Users\Tecno Computer\Desktop\AplicacionGetSet\AplicacionGetSet\bin\Debug\AplicacionGetSet.pdb
+C:\Users\Tecno Computer\Desktop\AplicacionGetSet\AplicacionGetSet\obj\Debug\AplicacionGetSet.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\AplicacionGetSet\AplicacionGetSet\obj\Debug\AplicacionGetSet.exe
+C:\Users\Tecno Computer\Desktop\AplicacionGetSet\AplicacionGetSet\obj\Debug\AplicacionGetSet.pdb
