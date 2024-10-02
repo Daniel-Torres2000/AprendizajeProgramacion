@@ -1,0 +1,6 @@
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Suma de Dos numeros\Suma de Dos numeros\bin\Debug\Suma de Dos numeros.exe.config
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Suma de Dos numeros\Suma de Dos numeros\bin\Debug\Suma de Dos numeros.exe
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Suma de Dos numeros\Suma de Dos numeros\bin\Debug\Suma de Dos numeros.pdb
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Suma de Dos numeros\Suma de Dos numeros\obj\Debug\Suma de Dos numeros.csprojResolveAssemblyReference.cache
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Suma de Dos numeros\Suma de Dos numeros\obj\Debug\Suma de Dos numeros.exe
+C:\Users\user01.ACADEMIA\Desktop\PROGRAMAS, VISUAL STUDIO DANIEL TORRES\Suma de Dos numeros\Suma de Dos numeros\obj\Debug\Suma de Dos numeros.pdb
