@@ -1,0 +1,5 @@
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb

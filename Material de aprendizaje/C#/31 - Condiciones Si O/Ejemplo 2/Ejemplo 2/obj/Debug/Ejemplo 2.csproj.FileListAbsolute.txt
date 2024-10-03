@@ -1,0 +1,5 @@
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe.config
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.pdb
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.pdb
