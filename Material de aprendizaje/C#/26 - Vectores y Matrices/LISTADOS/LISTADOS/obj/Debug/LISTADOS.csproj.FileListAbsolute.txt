@@ -1,0 +1,17 @@
+C:\Users\user01.ACADEMIA\Desktop\LISTADOS\LISTADOS\bin\Debug\LISTADOS.exe.config
+C:\Users\user01.ACADEMIA\Desktop\LISTADOS\LISTADOS\bin\Debug\LISTADOS.exe
+C:\Users\user01.ACADEMIA\Desktop\LISTADOS\LISTADOS\bin\Debug\LISTADOS.pdb
+C:\Users\user01.ACADEMIA\Desktop\LISTADOS\LISTADOS\obj\Debug\LISTADOS.exe
+C:\Users\user01.ACADEMIA\Desktop\LISTADOS\LISTADOS\obj\Debug\LISTADOS.pdb
+C:\Users\Tecno Computer\Downloads\OFFICE 365\LISTADOS\LISTADOS\bin\Debug\LISTADOS.exe.config
+C:\Users\Tecno Computer\Downloads\OFFICE 365\LISTADOS\LISTADOS\obj\Debug\LISTADOS.exe
+C:\Users\Tecno Computer\Downloads\OFFICE 365\LISTADOS\LISTADOS\obj\Debug\LISTADOS.pdb
+C:\Users\Tecno Computer\Downloads\OFFICE 365\LISTADOS\LISTADOS\bin\Debug\LISTADOS.exe
+C:\Users\Tecno Computer\Downloads\OFFICE 365\LISTADOS\LISTADOS\bin\Debug\LISTADOS.pdb
+C:\Users\Tecno Computer\Downloads\OFFICE 365\LISTADOS\LISTADOS\obj\Debug\LISTADOS.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\LISTADOS\LISTADOS\bin\Debug\LISTADOS.exe.config
+C:\Users\Tecno Computer\Desktop\LISTADOS\LISTADOS\obj\Debug\LISTADOS.exe
+C:\Users\Tecno Computer\Desktop\LISTADOS\LISTADOS\obj\Debug\LISTADOS.pdb
+C:\Users\Tecno Computer\Desktop\LISTADOS\LISTADOS\bin\Debug\LISTADOS.exe
+C:\Users\Tecno Computer\Desktop\LISTADOS\LISTADOS\bin\Debug\LISTADOS.pdb
+C:\Users\Tecno Computer\Desktop\LISTADOS\LISTADOS\obj\Debug\LISTADOS.csprojResolveAssemblyReference.cache
