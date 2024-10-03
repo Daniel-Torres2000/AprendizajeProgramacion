@@ -1,0 +1,6 @@
+C:\Users\Tecno Computer\Desktop\BucleForeach\BucleForeach\bin\Debug\BucleForeach.exe.config
+C:\Users\Tecno Computer\Desktop\BucleForeach\BucleForeach\bin\Debug\BucleForeach.exe
+C:\Users\Tecno Computer\Desktop\BucleForeach\BucleForeach\bin\Debug\BucleForeach.pdb
+C:\Users\Tecno Computer\Desktop\BucleForeach\BucleForeach\obj\Debug\BucleForeach.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\BucleForeach\BucleForeach\obj\Debug\BucleForeach.exe
+C:\Users\Tecno Computer\Desktop\BucleForeach\BucleForeach\obj\Debug\BucleForeach.pdb
