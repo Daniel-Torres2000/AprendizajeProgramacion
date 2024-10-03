@@ -1,0 +1,5 @@
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 0\Ejercicio 0\bin\Debug\Ejercicio 0.exe.config
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 0\Ejercicio 0\bin\Debug\Ejercicio 0.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 0\Ejercicio 0\bin\Debug\Ejercicio 0.pdb
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 0\Ejercicio 0\obj\Debug\Ejercicio 0.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 0\Ejercicio 0\obj\Debug\Ejercicio 0.pdb
