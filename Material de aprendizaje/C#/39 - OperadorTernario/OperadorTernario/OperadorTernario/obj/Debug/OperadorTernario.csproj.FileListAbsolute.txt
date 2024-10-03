@@ -1,0 +1,13 @@
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe.config
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.pdb
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.exe
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.pdb
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe.config
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.exe
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\bin\Debug\OperadorTernario.pdb
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.csproj.AssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.exe
+C:\Users\JoseDanielTorresGarc\Downloads\OperadorTernario\OperadorTernario\OperadorTernario\obj\Debug\OperadorTernario.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\bin\Release\OperadorTernario.exe.config
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\bin\Release\OperadorTernario.exe
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\bin\Release\OperadorTernario.pdb
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\obj\Release\OperadorTernario.exe
+C:\Users\Tecno Computer\Desktop\OperadorTernario\OperadorTernario\obj\Release\OperadorTernario.pdb

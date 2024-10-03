@@ -1,0 +1,6 @@
+C:\Users\docente03\Desktop\Proyecto Constructores\Proyecto Constructores\bin\Debug\Proyecto Constructores.exe.config
+C:\Users\docente03\Desktop\Proyecto Constructores\Proyecto Constructores\bin\Debug\Proyecto Constructores.exe
+C:\Users\docente03\Desktop\Proyecto Constructores\Proyecto Constructores\bin\Debug\Proyecto Constructores.pdb
+C:\Users\docente03\Desktop\Proyecto Constructores\Proyecto Constructores\obj\Debug\Proyecto Constructores.csprojResolveAssemblyReference.cache
+C:\Users\docente03\Desktop\Proyecto Constructores\Proyecto Constructores\obj\Debug\Proyecto Constructores.exe
+C:\Users\docente03\Desktop\Proyecto Constructores\Proyecto Constructores\obj\Debug\Proyecto Constructores.pdb
