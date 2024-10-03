@@ -1,0 +1,6 @@
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Tecno Computer\Desktop\2019 TRABAJO LEC\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.pdb
