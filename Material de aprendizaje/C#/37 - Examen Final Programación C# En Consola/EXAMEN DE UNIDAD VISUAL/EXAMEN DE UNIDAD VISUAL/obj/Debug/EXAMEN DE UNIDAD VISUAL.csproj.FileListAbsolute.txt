@@ -1,0 +1,25 @@
+C:\Users\user01.ACADEMIA\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe.config
+C:\Users\user01.ACADEMIA\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\user01.ACADEMIA\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\user01.ACADEMIA\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.csprojResolveAssemblyReference.cache
+C:\Users\user01.ACADEMIA\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\user01.ACADEMIA\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\Tecno Computer\Downloads\EXAMEN TECNICO\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe.config
+C:\Users\Tecno Computer\Downloads\EXAMEN TECNICO\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\Tecno Computer\Downloads\EXAMEN TECNICO\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\Tecno Computer\Downloads\EXAMEN TECNICO\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\Tecno Computer\Downloads\EXAMEN TECNICO\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\Tecno Computer\Downloads\EXAMEN TECNICO\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe.config
+C:\Users\Tecno Computer\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\Tecno Computer\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\Tecno Computer\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\Tecno Computer\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\Tecno Computer\Desktop\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.csprojResolveAssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe.config
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\bin\Debug\EXAMEN DE UNIDAD VISUAL.pdb
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.csproj.AssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.csproj.CoreCompileInputs.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.exe
+C:\Users\JoseDanielTorresGarc\Downloads\Examen Tecnico en Programación Introduccion a la Programacion C#\EXAMEN DE UNIDAD VISUAL\EXAMEN DE UNIDAD VISUAL\obj\Debug\EXAMEN DE UNIDAD VISUAL.pdb

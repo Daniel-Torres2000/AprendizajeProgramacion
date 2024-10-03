@@ -1,0 +1,13 @@
+C:\Users\Tecno Computer\Desktop\Binario_Fibonacci\Binario_Fibonacci\bin\Debug\Binario_Fibonacci.exe.config
+C:\Users\Tecno Computer\Desktop\Binario_Fibonacci\Binario_Fibonacci\bin\Debug\Binario_Fibonacci.exe
+C:\Users\Tecno Computer\Desktop\Binario_Fibonacci\Binario_Fibonacci\bin\Debug\Binario_Fibonacci.pdb
+C:\Users\Tecno Computer\Desktop\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.exe
+C:\Users\Tecno Computer\Desktop\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.pdb
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\bin\Debug\Binario_Fibonacci.exe.config
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\bin\Debug\Binario_Fibonacci.exe
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\bin\Debug\Binario_Fibonacci.pdb
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.exe
+C:\Users\JoseDanielTorresGarc\Downloads\Binario_Fibonacci\Binario_Fibonacci\Binario_Fibonacci\obj\Debug\Binario_Fibonacci.pdb

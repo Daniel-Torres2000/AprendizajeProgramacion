@@ -1,0 +1,7 @@
+Realiza un programa con el siguiente menú de opciones, dichas opciones
+deberas resolverlas a traves de funciones:
+1. Convertir un numero a binario
+   pueden tomar como referencia esto https://www.youtube.com/watch?v=TMuqcCaaJXI&t=722s
+2. Realizar la serie Fobonacci comprendida entre 1 y el numero que ingrese
+   el usuario, pueden tomar como referencia esto: https://www.youtube.com/watch?v=4t8NfNUpf6I
+3. salida
