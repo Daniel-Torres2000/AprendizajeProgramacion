@@ -1,0 +1,6 @@
+C:\Users\user01.ACADEMIA\Desktop\DANIEL TORRES\Numero Magico\Numero Magico\bin\Debug\Numero Magico.exe.config
+C:\Users\user01.ACADEMIA\Desktop\DANIEL TORRES\Numero Magico\Numero Magico\bin\Debug\Numero Magico.exe
+C:\Users\user01.ACADEMIA\Desktop\DANIEL TORRES\Numero Magico\Numero Magico\bin\Debug\Numero Magico.pdb
+C:\Users\user01.ACADEMIA\Desktop\DANIEL TORRES\Numero Magico\Numero Magico\obj\Debug\Numero Magico.csprojResolveAssemblyReference.cache
+C:\Users\user01.ACADEMIA\Desktop\DANIEL TORRES\Numero Magico\Numero Magico\obj\Debug\Numero Magico.exe
+C:\Users\user01.ACADEMIA\Desktop\DANIEL TORRES\Numero Magico\Numero Magico\obj\Debug\Numero Magico.pdb
