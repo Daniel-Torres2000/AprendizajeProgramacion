@@ -1,0 +1,18 @@
+F:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\bin\Debug\Vectores 2.exe.config
+F:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\bin\Debug\Vectores 2.exe
+F:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\bin\Debug\Vectores 2.pdb
+F:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\obj\Debug\Vectores 2.csprojResolveAssemblyReference.cache
+F:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\obj\Debug\Vectores 2.exe
+F:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\obj\Debug\Vectores 2.pdb
+D:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\bin\Debug\Vectores 2.exe.config
+D:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\obj\Debug\Vectores 2.exe
+D:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\obj\Debug\Vectores 2.pdb
+D:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\bin\Debug\Vectores 2.exe
+D:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\bin\Debug\Vectores 2.pdb
+D:\Colegio San Pablo\Programas hechos en C#\Vectores 2\Vectores 2\obj\Debug\Vectores 2.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\Vectores 2\Vectores 2\bin\Debug\Vectores 2.exe.config
+C:\Users\Tecno Computer\Desktop\Vectores 2\Vectores 2\obj\Debug\Vectores 2.exe
+C:\Users\Tecno Computer\Desktop\Vectores 2\Vectores 2\obj\Debug\Vectores 2.pdb
+C:\Users\Tecno Computer\Desktop\Vectores 2\Vectores 2\bin\Debug\Vectores 2.exe
+C:\Users\Tecno Computer\Desktop\Vectores 2\Vectores 2\bin\Debug\Vectores 2.pdb
+C:\Users\Tecno Computer\Desktop\Vectores 2\Vectores 2\obj\Debug\Vectores 2.csprojResolveAssemblyReference.cache

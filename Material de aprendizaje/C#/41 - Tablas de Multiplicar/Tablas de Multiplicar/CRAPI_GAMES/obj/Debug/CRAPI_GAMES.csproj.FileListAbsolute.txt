@@ -1,0 +1,40 @@
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.exe.config
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.exe
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.pdb
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csprojResolveAssemblyReference.cache
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_principal.resources
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_instrrucciones.resources
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Properties.Resources.resources
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csproj.GenerateResource.Cache
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.exe
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.pdb
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_cerrar.resources
+C:\Users\user01.ACADEMIA\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_jugar.resources
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.exe.config
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.exe
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.pdb
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.exe
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.pdb
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csprojResolveAssemblyReference.cache
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_cerrar.resources
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_jugar.resources
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_principal.resources
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_instrrucciones.resources
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Properties.Resources.resources
+C:\Users\user01.ACADEMIA\Desktop\Tablero para juego\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csproj.GenerateResource.Cache
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.exe.config
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.exe
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.pdb
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.exe
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\bin\Debug\CRAPI_GAMES.pdb
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_cerrar.resources
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_jugar.resources
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_principal.resources
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_instrrucciones.resources
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Properties.Resources.resources
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csproj.GenerateResource.Cache
+C:\Users\Tecno Computer\Desktop\CRAPI_GAMES\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.Frm_victoria.resources
+C:\Users\JoseDanielTorresGarc\Downloads\Tablas de Multiplicar\Tablas de Multiplicar\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.csproj.AssemblyReference.cache
+C:\Users\JoseDanielTorresGarc\Downloads\Tablas de Multiplicar\Tablas de Multiplicar\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.exe
+C:\Users\JoseDanielTorresGarc\Downloads\Tablas de Multiplicar\Tablas de Multiplicar\CRAPI_GAMES\obj\Debug\CRAPI_GAMES.pdb

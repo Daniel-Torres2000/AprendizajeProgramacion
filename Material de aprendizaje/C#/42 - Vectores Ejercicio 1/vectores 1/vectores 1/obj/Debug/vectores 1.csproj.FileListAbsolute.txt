@@ -1,0 +1,18 @@
+C:\Users\ErwinGilberto\Documents\Visual Studio 2013\Projects\vectores 1\vectores 1\bin\Debug\vectores 1.exe.config
+C:\Users\ErwinGilberto\Documents\Visual Studio 2013\Projects\vectores 1\vectores 1\bin\Debug\vectores 1.exe
+C:\Users\ErwinGilberto\Documents\Visual Studio 2013\Projects\vectores 1\vectores 1\bin\Debug\vectores 1.pdb
+C:\Users\ErwinGilberto\Documents\Visual Studio 2013\Projects\vectores 1\vectores 1\obj\Debug\vectores 1.csprojResolveAssemblyReference.cache
+C:\Users\ErwinGilberto\Documents\Visual Studio 2013\Projects\vectores 1\vectores 1\obj\Debug\vectores 1.exe
+C:\Users\ErwinGilberto\Documents\Visual Studio 2013\Projects\vectores 1\vectores 1\obj\Debug\vectores 1.pdb
+D:\Colegio San Pablo\Programas hechos en C#\vectores 1\vectores 1\bin\Debug\vectores 1.exe.config
+D:\Colegio San Pablo\Programas hechos en C#\vectores 1\vectores 1\obj\Debug\vectores 1.exe
+D:\Colegio San Pablo\Programas hechos en C#\vectores 1\vectores 1\obj\Debug\vectores 1.pdb
+D:\Colegio San Pablo\Programas hechos en C#\vectores 1\vectores 1\bin\Debug\vectores 1.exe
+D:\Colegio San Pablo\Programas hechos en C#\vectores 1\vectores 1\bin\Debug\vectores 1.pdb
+D:\Colegio San Pablo\Programas hechos en C#\vectores 1\vectores 1\obj\Debug\vectores 1.csprojResolveAssemblyReference.cache
+C:\Users\Tecno Computer\Desktop\vectores 1\vectores 1\bin\Debug\vectores 1.exe.config
+C:\Users\Tecno Computer\Desktop\vectores 1\vectores 1\obj\Debug\vectores 1.exe
+C:\Users\Tecno Computer\Desktop\vectores 1\vectores 1\obj\Debug\vectores 1.pdb
+C:\Users\Tecno Computer\Desktop\vectores 1\vectores 1\bin\Debug\vectores 1.exe
+C:\Users\Tecno Computer\Desktop\vectores 1\vectores 1\bin\Debug\vectores 1.pdb
+C:\Users\Tecno Computer\Desktop\vectores 1\vectores 1\obj\Debug\vectores 1.csprojResolveAssemblyReference.cache
